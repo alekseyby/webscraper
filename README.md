@@ -1,4 +1,4 @@
-This scrapper visits amzaon item page, iterates via pages, collects seller id and items id and write to txt file.
+This scrapper visits amzaon item page, iterates via pages, collects sellers id and items id and write to txt file.
 
 Run following commands to start:
 pip install beautifulsoup4
